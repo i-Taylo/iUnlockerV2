@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/%20-yellow)]()
 [![](https://img.shields.io/badge/%20-blue)]()
-[![](https://img.shields.io/badge/iUnlocker-v1.0-white)](https://github.com/i-Taylo/iUnlockerV2/releases/tag/v1.0)
+[![](https://img.shields.io/badge/iUnlocker-v1.0-beta.2-white)](https://github.com/i-Taylo/iUnlockerV2/releases/tag/v1.0)
 [![](https://img.shields.io/badge/-blue)]()
 [![](https://img.shields.io/badge/-yellow)]()
 
