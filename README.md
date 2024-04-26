@@ -19,7 +19,7 @@
 >
 
 > ## Installation guide [ KSU ]
->   * 1 - Download the module: [**iUnlocker-1.0-april-23-24.zip**](https://github.com/i-Taylo/iUnlockerV2/releases/download/v1.0/iUnlocker-1.0-april-23-24.zip)
+>   * 1 - Download the module: [**iUnlocker-1.0-april-25-24-b2.zip**](https://github.com/i-Taylo/iUnlockerV2/releases/download/v1.0-beta.2/iUnlocker-1.0-april-25-24-b2.zip)
 >   * 2 - Download [**ZygiskNext**](https://github.com/Dr-TSNG/ZygiskNext/releases) module.
 >   * 3 - Open KSU app, go to modules section, flash ZygiskNext module.
 >   * 4 - After flashing ZygiskNext, Flash the iUnlocker module then reboot your phone. Thats it! after that your games will be automatically unlocked.
